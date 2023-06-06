@@ -1,10 +1,12 @@
 # LanguageIndex
 Dataset of most (all widely used + some others which are no longer used) programming languages.
+It provides a basic description, if the language is OOP or not ,if it is statically or dynamically typed , information about the speed of the language, what it is mostly used for, the marketshare of the programming language and installation command for Linux (the command maynot work on all distributions), MacOS and Windows(some of the languages couldn't be installed using commandline on Windows hence are left null).
 
 ### warning 
-This Index may containing wrong information , wrong/harmful installation commands and so on. This list have to be used with care.
-The data was generated also with the help of tgpt.
-*It is under MIT license*
+This Index may containing wrong information , wrong/harmful installation commands and so on. This list have to be used with care.<br>
+The list may not be complete and information which we werent able to get was set as null. <br>
+The data was generated also with the help of tgpt.<br>
+*It is under MIT license*<br>
 
 ### Contents of the file 
 - Stored as Json
