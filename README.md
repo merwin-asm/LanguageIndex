@@ -7,10 +7,11 @@ The data was generated also with the help of tgpt.
 *It is under MIT license*
 
 ### Contents of the file 
+- Stored as Json
 - Total number of languages - > 656
 - If any info wasnt found it is set to null
 - Structure :
-```
+```json
 {
 "lang_1" : {
 "description" : "................",
