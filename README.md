@@ -1,5 +1,5 @@
 # LanguageIndex
-Dataset of most (all widely used + someothers which are no longer used) programming languages.
+Dataset of most (all widely used + some others which are no longer used) programming languages.
 
 ### warning 
 This Index may containing wrong information , wrong/harmful installation commands and so on. This list have to be used with care.
