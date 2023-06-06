@@ -7,6 +7,27 @@ The data was generated also with the help of tgpt.
 *It is under MIT license*
 
 ### Contents of the file 
+- Total number of languages - > 656
+- If any info wasnt found it is set to null
+- Structure :
+```
+{
+"lang_1" : {
+"description" : "................",
+"OOP" : true / false (if its object oriented programming language),
+"type" : "statically typed" / "dynamically typed",
+"speed" :  "very fast"/"fast"/"medium"/"slow",
+"mostly_used_for" : "..............",
+"market_share" : ".................",
+"installation" : {
+"windows" : "....",
+"linux" : ".....",
+"macOS": ".....",
+       },
+   },
+}
+```
+
 
 ### Downloading
 Simple download from here.
