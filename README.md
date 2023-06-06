@@ -15,9 +15,9 @@ The data was generated also with the help of tgpt.
 {
 "lang_1" : {
 "description" : "................",
-"OOP" : true / false (if its object oriented programming language),
-"type" : "statically typed" / "dynamically typed",
-"speed" :  "very fast"/"fast"/"medium"/"slow",
+"OOP" : "true / false (if its object oriented programming language)",
+"type" : "statically typed / dynamically typed",
+"speed" :  "very fast/fast/medium/slow",
 "mostly_used_for" : "..............",
 "market_share" : ".................",
 "installation" : {
