@@ -714,6 +714,19 @@
       "macOS": "brew install babbage"
     }
   },
+  "Ballerina": {
+    "description": "Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.",
+    "OOP": false,
+    "type": "statically typed",
+    "speed": "comparable to Java",
+    "mostly_used_for": "writing integrations and network services",
+    "market_share": null,
+    "installation": {
+      "windows": "Download an installer from https://ballerina.io/downloads/",
+      "linux": "Download an installer from https://ballerina.io/downloads/",
+      "macOS": "Download an installer from https://ballerina.io/downloads/"
+    }
+  },
   "Bash": {
     "description": "Unix shell and command language used for scripting and executing commands",
     "OOP": false,
